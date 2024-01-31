@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="dark_grey">#121212</color>
+    <color name="soft_white">#F9F5F6</color>
+    <color name="light_mode_card_background">#FFF7F7</color>
+    <color name="dark_mode_card_background">#2E2E2E</color>
+    <color name="divider_color">#65737D</color>
+    <color name="selected_day">#34B7F1</color>
+</resources>

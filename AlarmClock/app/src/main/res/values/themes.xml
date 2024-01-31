@@ -1,0 +1,24 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.AlarmClock" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="android:windowBackground">@color/soft_white</item>
+        <item name="navigationViewStyle">@color/white</item>
+        <item name="itemFillColor">@color/black</item>
+        <item name="cardBackgroundColor">@color/light_mode_card_background</item>
+        <item name="android:textColor">@color/black</item>
+
+    </style>
+    
+    <style name="timepickerStyle">
+        <item name="android:headerBackground">@color/soft_white</item>
+        <item name="android:headerTimeTextAppearance">@color/black</item>
+        <item name="android:headerAmPmTextAppearance">@color/black</item>
+        <item name="android:numbersSelectorColor">@color/selected_day</item>
+        <item name="android:numbersBackgroundColor">@color/soft_white</item>
+
+    </style>
+
+    <style name="Theme.AlarmClock" parent="Base.Theme.AlarmClock" />
+</resources>
